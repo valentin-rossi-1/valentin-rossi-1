@@ -2,12 +2,13 @@
 
 ![imgfond](imagesread/fond.png)
 
-With the diversity of my experiences and my ability to adapt, I have realized my long-standing interest in IT by changing direction and joining the Bachelor IT program at La Plateforme. My choice of specialization is Cyber ​​Security.
+A long-time IT enthusiast, I recently decided to turn this interest into reality by joining the Bachelor IT program at La Plateforme. My personal and professional experiences have helped me develop strong adaptability skills and a passion for continuous learning.
 
-- 🔭 I’m currently working on IT basics.
-- 🌱 Currently learning Python, HTML&CSSS, Linux
-- 👯 I’m looking to collaborate on .anything to learn
-- 
+
+I'm looking for a two-year work-study program in cybersecurity, a field in which I wish to specialize in order to learn, take on technical challenges, and acquire the skills necessary to anticipate, detect, and counter cyber threats.
+
+
+
 ---
 
 ## TOOLS I USE
