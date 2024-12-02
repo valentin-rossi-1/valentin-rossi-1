@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 
 
 ## FIND ME ONLINE
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://x.com/___CVL___?t=9WGkhSftpWEf7Yjf5lD49w&s=09)](https://x.com/valtuco?t=BzKD3D_xw1yBNU1bJkjvIg&s=03)
-[![Linkedin]([https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://www.reddit.com/u/_CVL_/s/XBpICh7TyF](https://www.linkedin.com/in/valentin-rossi-941791114/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/valtuco?t=BzKD3D_xw1yBNU1bJkjvIg&s=03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-rossi-941791114/)
+
