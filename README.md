@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![imgfond] (imagesread/fond.png)
+
 With the diversity of my experiences and my ability to adapt, I have realized my long-standing interest in IT by changing direction and joining the Bachelor IT program at La Plateforme. My choice of specialization is Cyber ​​Security.
 
 - 🔭 I’m currently working on IT basics.
