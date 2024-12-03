@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my world 💻
 
 ![imgfond](imagesread/fond.png)
+### Languages speaked : <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English Flag" width="20"/>
 
 A long-time IT enthusiast, I recently decided to turn this interest into reality by joining the Bachelor IT program at La Plateforme. My personal and professional experiences have helped me develop strong adaptability skills and a passion for continuous learning.
 
@@ -8,8 +9,6 @@ A long-time IT enthusiast, I recently decided to turn this interest into reality
 I'm looking for a two-year work-study program in cybersecurity, a field in which I wish to specialize in order to learn, take on technical challenges, and acquire the skills necessary to anticipate, detect, and counter cyber threats.
 
 
-
----
 
 ## TOOLS I USE
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -21,6 +20,12 @@ I'm looking for a two-year work-study program in cybersecurity, a field in which
 ![Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 ![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+## WORK IN PROGRESS  
+
+Currently looking to set up my homelab.
+
 
 
 ---
