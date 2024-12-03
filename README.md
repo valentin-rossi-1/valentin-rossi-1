@@ -1,4 +1,4 @@
- Welcome to my :beginner: 💻 world 
+ Welcome to my :beginner: 💻 🌍
 
 ![imgfond](imagesread/fond.png)
 ### Languages speaked : <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English Flag" width="20"/>
