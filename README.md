@@ -1,7 +1,10 @@
  Welcome to my :beginner: 💻 🌍
 
 ![imgfond](./imagesread/fond.png)
-### Languages speaked : <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English Flag" width="20"/>
+
+🗣 <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English Flag" width="20"/>
+
+🗺️ :round_pushpin:  Marseille, France
 
 A long-time IT enthusiast, I recently decided to turn this interest into reality by joining the Bachelor IT program at La Plateforme. My personal and professional experiences have helped me develop strong adaptability skills and a passion for continuous learning.
 
